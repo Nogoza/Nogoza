@@ -11,17 +11,22 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate snake (gif + svg)
+      - name: Generate snake files
         uses: Platane/snk@v3
         with:
           github_user_name: nogoza
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.gif
+
+      - name: Verify dist exists
+        run: |
+          ls -la
+          ls -la dist
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
