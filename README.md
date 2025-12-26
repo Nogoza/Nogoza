@@ -24,14 +24,4 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogoza&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nogoza&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nogoza&theme=vision-friendly-dark" alt="GitHub Streak" />
-</p>
+![Metrics](./assets/metrics.svg)
