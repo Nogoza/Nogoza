@@ -26,5 +26,3 @@
 
 ![Metrics](./assets/metrics.svg)
 
-
-![snake](https://raw.githubusercontent.com/nogoza/nogoza/output/github-contribution-grid-snake.svg)
