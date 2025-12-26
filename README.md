@@ -25,3 +25,5 @@
 ### 📊 GitHub Stats
 
 ![Metrics](./assets/metrics.svg)
+![snake](https://raw.githubusercontent.com/nogoza/nogoza/output/dist/github-contribution-grid-snake.svg)
+
