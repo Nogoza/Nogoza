@@ -9,7 +9,11 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarik-cukur" height="30" width="40" />
   </a>
 </p>
-
+<p align="left">
+  <a href="https://www.tubit.org.tr" target="_blank">
+    <img src="https://www.tubit.org.tr/_image?href=%2F_assets%2Fbiz-logo.xa7qCwh3.svg&w=422&h=229&f=svg" alt="tarik-cukur" height="30" width="40" />
+  </a>
+</p>
 ---
 
 ### 🛠️ Languages and Tools
