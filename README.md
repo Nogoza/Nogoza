@@ -2,6 +2,10 @@
 <h3 align="center">A passionate backend developer from Turkey 🇹🇷</h3>
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tarik-cukur&label=Profile%20Views&color=0e75b6&style=flat" alt="tarik-cukur" />
+</p>
+
 
 ### 🔗 Connect with me
 <p align="left">
