@@ -1,36 +1,32 @@
-<h1 align="center">Hi 👋, I'm Tarık Çukur</h1>
-<h3 align="center">A passionate backend developer from Turkey 🇹🇷</h3>
+# Tarık Çukur
 
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tarik-cukur&label=Profile%20Views&color=0e75b6&style=flat" alt="tarik-cukur" />
-</p>
+Backend ve full stack geliştirmeye odaklanıyorum. Python ve JavaScript/TypeScript ile API, web ve mobil uygulamalar geliştiriyor; Docker, PostgreSQL ve Linux ile uygulamaların çalışma ortamını öğreniyorum.
 
+## Öne çıkan projeler
 
-### 🔗 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/tarik-cukur" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarik-cukur" height="30" width="40" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://www.tubit.org.tr" target="_blank">
-    <img src="https://www.tubit.org.tr/_image?href=%2F_assets%2Fbiz-logo.xa7qCwh3.svg&w=422&h=229&f=svg" alt="tarik-cukur" height="30" width="40" />
-  </a>
-</p>
----
+### [Docker Delivery Lab](https://github.com/Nogoza/docker-delivery-lab)
 
-### 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</p>
+FastAPI ile geliştirilen görev API'sini PostgreSQL ile Docker Compose üzerinde çalıştıran öğrenme projesi. Görev oluşturma ve listeleme, girdi doğrulama, servis sağlık kontrolleri ve container yeniden oluşturulduğunda verinin korunmasını kapsar.
 
----
+**Teknolojiler:** Python, FastAPI, PostgreSQL, Docker Compose.
 
-### 📊 GitHub Stats
+### [Linux Ops Toolkit](https://github.com/Nogoza/linux-ops-toolkit)
 
-![Metrics](./assets/metrics.svg)
+Disk ve bellek kullanımını raporlayan Bash aracı. Ayarlanabilir disk kullanım eşiği, hata durumları için çıkış kodları, otomatik regresyon testleri ve GitHub Actions iş akışı içerir.
 
+**Teknolojiler:** Bash, Linux, GitHub Actions.
+
+## Web ve mobil çalışmalarım
+
+- [Web Geliştirme](https://github.com/Nogoza/web-gelistirme): React, Vite ve Tailwind CSS ile web arayüzü çalışması.
+- [CoupleSpace](https://github.com/Nogoza/CoupleSpace): React Native, Expo, TypeScript ve Supabase ile mobil uygulama çalışması.
+
+## Kullandığım teknolojiler
+
+- **Backend ve veri:** Python, FastAPI, PostgreSQL.
+- **Web ve mobil:** JavaScript, TypeScript, React, React Native, Expo, Tailwind CSS.
+- **Araçlar ve çalışma ortamı:** Git, Docker Compose, Linux, Bash, GitHub Actions.
+
+## Bağlantılar
+
+[LinkedIn](https://www.linkedin.com/in/tarik-cukur/) · [TÜBİT](https://www.tubit.org.tr/)
